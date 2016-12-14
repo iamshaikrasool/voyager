@@ -82,3 +82,4 @@ Laravel provides a quick way to scaffold all of the routes and views you need fo
 ```
 php artisan make:auth
 ```
+Now Admin Can **login** to app from Front-end also.
