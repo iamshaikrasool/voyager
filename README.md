@@ -75,3 +75,10 @@ php artisan voyager:admin your@email.com --create
 ```
 
 And you will be prompted for the users name and password.
+
+### Routing
+
+Laravel provides a quick way to scaffold all of the routes and views you need for authentication using one simple command:
+```
+php artisan make:auth
+```
